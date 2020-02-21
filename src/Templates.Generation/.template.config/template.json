@@ -1,12 +1,12 @@
 {
-  "author": "Reservoir Devs Ltd",
-  "classifications": [ "Web", "Api", "Reservoir Devs" ],
-  "name": "API Template",
-  "identity": "Template.Api",
-  "shortName": "api-template",
+  "author": "#{}#",
+  "classifications": [ #{}# ],
+  "name": "#{}#",
+  "identity": "#{}#",
+  "shortName": "#{}#",
   "tags": {
-    "language": "C#"
+    "language": "#{}#"
   },
-  "sourceName": "ApiTemplate",
-  "preferNameDirectory": "true"
+  "sourceName": "#{}#",
+  "preferNameDirectory": "#{}#"
 }
