@@ -2,12 +2,12 @@
 
   <PropertyGroup>
     <PackageType>Template</PackageType>
-    <PackageVersion>0.5</PackageVersion>
-    <PackageId>ReservoirDevs.Templates.API</PackageId>
-    <Title>Reservoir Devs API Template</Title>
-    <Authors>Reservoir Devs</Authors>
-    <Description>Template to use when creating an API.</Description>
-    <PackageTags>dot net template;api template;reservoir-devs</PackageTags>
+    <PackageVersion>#{package.version}#</PackageVersion>
+    <PackageId>#{package.id}#</PackageId>
+    <Title>#{template.author}# #{template.name}#</Title>
+    <Authors>#{template.author}#</Authors>
+    <Description>#{package.description}#</Description>
+    <PackageTags>#{package.tags}#</PackageTags>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <IsPackable>true</IsPackable>
     <IncludeContentInPack>true</IncludeContentInPack>
