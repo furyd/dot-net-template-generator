@@ -1,12 +1,12 @@
 {
-  "author": "#{}#",
-  "classifications": [ #{}# ],
-  "name": "#{}#",
-  "identity": "#{}#",
-  "shortName": "#{}#",
+  "author": "#{template.author}#",
+  "classifications": [ #{template.classifications}# ],
+  "name": "#{template.name}#",
+  "identity": "#{template.identity}#",
+  "shortName": "#{template.shortName}#",
   "tags": {
-    "language": "#{}#"
+    "language": "#{template.language}#"
   },
-  "sourceName": "#{}#",
-  "preferNameDirectory": "#{}#"
+  "sourceName": "#{template.sourceName}#",
+  "preferNameDirectory": "#{template.preferNameDirectory}#"
 }
